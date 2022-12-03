@@ -1,0 +1,6 @@
+{
+  "bot_token": "bot_token",
+  "client_id": "933615155311419453",
+  "guild_id": "1018101999348228207",
+  "mongodb_uri": "mongodb+srv://tikit:tikit@cluster0.3u2blta.mongodb.net/?retryWrites=true&w=majority"
+}
